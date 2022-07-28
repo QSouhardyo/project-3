@@ -1,0 +1,4 @@
+.img-chng img {
+    height: 75vh;
+    filter: brightness(30%);
+}
